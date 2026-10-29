@@ -1,0 +1,9 @@
+{
+  "name": "SpecForge Course Specification Builder",
+  "description": "Reads messy university course specs and blueprints, then produces corrected specs with CO-PO-PSO mappings, Bloom's level verification, and defect flagging.",
+  "requestFeedback": false,
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
